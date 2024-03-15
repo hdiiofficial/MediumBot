@@ -1,0 +1,15 @@
+{
+    "message_sent": "Pesan Anda telah terkirim!",
+    "undo": "❌ Batalkan",
+    "message_deleted": "Pesan ini telah dihapus!",
+    "blocked_by_user": "❕ Pengguna ini telah memblokir bot!",
+    "user_blocked": "Pengguna ini sekarang diblokir.",
+    "user_already_blocked": "❕ Pengguna ini telah diblokir!",
+    "user_unblocked": "Pengguna berhasil dibuka blokirnya.",
+    "user_not_blocked": "❕ Pengguna ini tidak diblokir!",
+    "start_message_changed": "Mulai sekarang, teks ini akan ditampilkan sebagai pesan awal.",
+    "offline_mode_activated": "Mode offline diaktifkan dan pesan ini akan ditampilkan kepada pengguna.",
+    "offline_mode_diactivated": "Bot sedang online!",
+    "forward_privacy_error": "⛔️ Maaf, tetapi Anda harus menonaktifkan privasi penerusan Anda di <b>Pengaturan > Privasi dan Keamanan > Pesan yang Diteruskan</b> sebelum mengirim pesan.",
+    "no_forward": "⛔️ Meneruskan pesan tidak diperbolehkan!"
+}
